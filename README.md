@@ -1,2 +1,2 @@
 # ansible_test
-Erste Schritte mit Ansible
+Erste Schritte mit Ansible-pull
