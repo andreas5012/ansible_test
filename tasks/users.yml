@@ -15,5 +15,5 @@
   user:
     name: andreas
     groups: users, admin
-    password: DF2Ybv2v2h5To
     append: yes
+    password: DF2Ybv2v2h5To
