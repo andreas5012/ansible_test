@@ -14,5 +14,6 @@
 - name: create user andreas
   user:
     name: andreas
-    groups: users admin
+    groups: users, admin
     password: DF2Ybv2v2h5To
+    append: yes
