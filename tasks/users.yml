@@ -14,6 +14,6 @@
 - name: create user andreas
   user:
     name: andreas
-    groups: users, admin
+    groups: users, adm, sudo
     append: yes
-    password: RPA2K5hiF/Wyc
+    password: $y$j9T$SL95R6HhBmxRQoK8eie4s1$idqaiFq7onr6V5s/6g6unuGjgDni1rhKPUEN7mzfHN/
