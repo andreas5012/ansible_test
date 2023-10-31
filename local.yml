@@ -4,9 +4,6 @@
   become: true
 
   tasks:
-  - name: install packages
-    package:
-      name:
-        - htop
-        - tmux
-        - vim-nox
+  - name: install htop
+    apt:
+      name: htop
